@@ -29,3 +29,11 @@ Este repositorio explica algunos pasos basicos para un PoC de utilizacion de **J
 
 ## Instalacion de Plugins basicos
 <img width="994" alt="Screenshot 2025-04-28 at 12 30 05 PM" src="https://github.com/user-attachments/assets/d22aca3d-e0b5-4006-95f9-52d7f5436834" />
+
+🧩 Plugins Recomendados para Integración con Docker, Appium y WebDriverIO
+
+- Docker Pipeline Plugin
+- NodeJS Plugin
+- Git Plugin
+- Pipeline Plugin
+- Blue Ocean Plugin (opcional, para mejor visualización)
