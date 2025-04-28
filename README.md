@@ -51,8 +51,16 @@ Este repositorio explica algunos pasos basicos para un PoC de utilizacion de **J
     }
 }
 ```
+
+
 Creacion de pipeline para verificar status de la configuracion
 <img width="1198" alt="Screenshot 2025-04-28 at 7 51 27 PM" src="https://github.com/user-attachments/assets/686c75de-3f15-4db3-9069-0b8f8642f312" />
 
 Ejecucion del pipeline existosa: Jenkins puede usar Docker correctamente
 <img width="923" alt="Screenshot 2025-04-28 at 7 54 43 PM" src="https://github.com/user-attachments/assets/4acf7b64-38c7-4762-9edf-616ab448db5f" />
+
+
+Si falla el pipelines se puede crear un Dockerfile
+que prepare Jenkins listo para
+- Usar Node.js (para ejecutar npm install y WebDriverIO).
+- Usar Docker CLI (para levantar el servidor de Appium dentro de los pipelines). 
