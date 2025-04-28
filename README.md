@@ -1,9 +1,9 @@
 # Jenkins-Docker-CI-CD
 Example of implementacion - PoC of CI-CD with Docker and Jenkins
 
-# 🚀 Setup de Jenkins para Automatización Mobile con Docker, Appium, TypeScript y WebDriverIO
+# Setup de Jenkins para Automatización Mobile con Docker, Appium, TypeScript y WebDriverIO
 
-Este repositorio explica paso a paso cómo instalar y configurar **Jenkins** localmente, para integrarlo con **Docker** y así correr proyectos de automatización mobile utilizando **Appium**, **TypeScript** y **WebDriverIO**.
+Este repositorio explica algunos pasos basicos para un PoC de utilizacion de **Jenkins** localmente usando Docker para poder aplicar Jenkins en un proyecto de Appium usando **Docker** y así correr proyectos de automatización mobile utilizando **Appium**, **TypeScript** y **WebDriverIO**.
 
 ## 🛠 Requisitos Previos
 
